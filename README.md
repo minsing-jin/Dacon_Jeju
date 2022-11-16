@@ -1,5 +1,5 @@
 # Dacon_Jeju
-제주도 교통량 예측대회/싸지방에서 하기에는 한계가.....ㅠㅠ
+https://dacon.io/competitions/official/235985/overview/description
 
 <br/>
 
