@@ -1,6 +1,8 @@
 # Dacon_Jeju
 https://dacon.io/competitions/official/235985/overview/description
 
+private score: 3.87808(251위)
+
 <br/>
 
 ## 시도해봤던것
