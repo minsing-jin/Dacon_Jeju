@@ -9,7 +9,7 @@ private score: 3.87808(251위)
 1. sweetviz를 활용한 auto eda로 insight 얻어보기
 2. feature importance와 permutation importance를 통해서 유의미성이 떨어지는 column 제거
 3. 다양한 모델 활용(catboost / xgboost / lgbm / randomforestregressor / decisiontree등) / 작게나마 하이퍼 파이미터 시도(대부분 모델 돌리다가 싸지방 이용 제한시간 초과)
-4. cv score들을 통해서 성능 좋은 모델들을 선정 + 각 모델들의 prediciton 값들을 평균값으로 ensemble
+4. cv score를 통해서 성능 좋은 모델들을 선정(5-fold) + 각 모델들의 prediciton 값들을 평균값으로 ensemble
 5. 모델 선정을 통해서 score을 올리는데에서 한계를 느끼고, 다른 ensemble 방식인 blending 적용 
 
 
